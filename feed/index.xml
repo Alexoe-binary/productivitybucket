@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Productivity Bucket</title>
+	<atom:link href="http://alexoe-binary.github.io/productivitybucket/feed/" rel="self" type="application/rss+xml" />
+	<link>http://alexoe-binary.github.io/productivitybucket</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 19 Nov 2020 22:00:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<item>
+		<title>Articles</title>
+		<link>http://alexoe-binary.github.io/productivitybucket/articles/</link>
+					<comments>http://alexoe-binary.github.io/productivitybucket/articles/#respond</comments>
+		
+		<dc:creator><![CDATA[pb_admin]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2020 21:52:20 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">http://alexoe-binary.github.io/productivitybucket/?p=13</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="13" class="elementor elementor-13" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-9d054d7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9d054d7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-20b863d" data-id="20b863d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-10ac99b elementor-widget elementor-widget-wp-widget-nav_menu" data-id="10ac99b" data-element_type="widget" data-widget_type="wp-widget-nav_menu.default">
+				<div class="elementor-widget-container">
+			<h5>Categories</h5><nav class="menu-categories_menu-container" aria-label="Categories"><ul id="menu-categories_menu" class="menu"><li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-31"><a href="http://alexoe-binary.github.io/productivitybucket/articles/" class="menu-link">Articles</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-32"><a href="http://alexoe-binary.github.io/productivitybucket/tools/" class="menu-link">Tools</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-33"><a href="http://alexoe-binary.github.io/productivitybucket/books/" class="menu-link">Books</a></li>
+</ul></nav>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-eb8560a" data-id="eb8560a" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>http://alexoe-binary.github.io/productivitybucket/articles/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tools</title>
+		<link>http://alexoe-binary.github.io/productivitybucket/tools/</link>
+					<comments>http://alexoe-binary.github.io/productivitybucket/tools/#respond</comments>
+		
+		<dc:creator><![CDATA[pb_admin]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2020 21:50:58 +0000</pubDate>
+				<category><![CDATA[Tools]]></category>
+		<guid isPermaLink="false">http://alexoe-binary.github.io/productivitybucket/?p=27</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>http://alexoe-binary.github.io/productivitybucket/tools/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Books</title>
+		<link>http://alexoe-binary.github.io/productivitybucket/books/</link>
+					<comments>http://alexoe-binary.github.io/productivitybucket/books/#respond</comments>
+		
+		<dc:creator><![CDATA[pb_admin]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2020 21:48:29 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<guid isPermaLink="false">http://alexoe-binary.github.io/productivitybucket/?p=22</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>http://alexoe-binary.github.io/productivitybucket/books/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
